@@ -1,0 +1,59 @@
+[
+  {
+    "title": "The Matrix",
+    "year": 1999,
+    "genre": "Sci-Fi",
+    "poster": "matrix_poster"
+  },
+  {
+    "title": "Inception",
+    "year": 2010,
+    "genre": "Sci-Fi",
+    "poster": "inception_poster"
+  },
+  {
+    "title": "Interstellar",
+    "year": "2014",
+    "genre": "Sci-Fi",
+    "poster": "interstellar_poster"
+  },
+  {
+    "title": null,
+    "year": 2008,
+    "genre": "Action",
+    "poster": "dark_knight_poster"
+  },
+  {
+    "title": "Pulp Fiction",
+    "year": "nineteen-ninety-four",
+    "genre": "Crime",
+    "poster": "pulp_fiction_poster"
+  },
+  {
+    "title": "Avatar",
+    "year": 2009,
+    "poster": "avatar_poster"
+  },
+  {
+    "title": "Titanic",
+    "year": -1997,
+    "genre": "Drama",
+    "poster": "titanic_poster"
+  },
+  {
+    "title": "Jurassic Park",
+    "year": 1993,
+    "genre": "Adventure",
+    "poster": null
+  },
+  {},
+  {
+    "title": "The Shawshank Redemption"
+  },
+  {
+    "title": "The Godfather",
+    "year": 1972.5,
+    "genre": "Crime",
+    "poster": "godfather_poster"
+  }
+]
